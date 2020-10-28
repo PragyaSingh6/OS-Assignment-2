@@ -31,7 +31,7 @@ int main()
 		func2();
 			}
 	else{
-		wait(NULL);
+		
 		func1();
 	}
 	return 0;
